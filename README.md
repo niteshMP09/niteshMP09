@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Nitesh Sikarwar
 
-<!--
-**niteshMP09/niteshMP09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer** with 4+ years of experience building modern and scalable web applications.
 
-Here are some ideas to get you started:
+💻 Skilled in **React.js**, **Next.js**, and **JavaScript (ES6+)**  
+🚀 Passionate about creating clean, user-friendly, and high-performance UIs  
+🤝 I enjoy mentoring developers and improving frontend architecture  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- React.js | Next.js | Redux | JavaScript | TypeScript  
+- HTML5 | CSS3 | Tailwind CSS | Bootstrap  
+- Node.js | Express.js | REST APIs | Git
+
+📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio-link.com)
