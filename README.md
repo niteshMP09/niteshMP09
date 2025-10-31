@@ -49,6 +49,6 @@ I love turning complex problems into simple, beautiful, and intuitive UI solutio
 
 ### 📫 Let’s Connect  
 - [LinkedIn](https://www.linkedin.com/in/nitesh-sikarwar-a3b0561a0)  
-- [GitHub](https://github.com/niteshsikarwar)  
+- [GitHub](https://github.com/niteshMP09)  
 
 ✨ *“Code is like art — simple, readable, and elegant.”*  
