@@ -11,4 +11,4 @@ I'm a **Frontend Developer** with 4+ years of experience building modern and sca
 - HTML5 | CSS3 | Tailwind CSS | Bootstrap  
 - Node.js | Express.js | REST APIs | Git
 
-📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio-link.com)
+📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/nitesh-sikarwar-a3b0561a0)
