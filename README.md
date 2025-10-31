@@ -8,6 +8,8 @@ I love turning complex problems into simple, beautiful, and intuitive UI solutio
 🤝 I enjoy mentoring developers, reviewing code, and improving frontend architecture  
 🧠 Always learning and exploring new technologies to write cleaner and more efficient code  
 
+I’m currently seeking opportunities in Full Stack Engineering, with core technical expertise in React, Next.js, Express.js, TypeScript, JavaScript, HTML5, CSS3, PostgreSQL, Redux, and the React ecosystem.
+
 ---
 
 ### 🧰 Tech Stack  
