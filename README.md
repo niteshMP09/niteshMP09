@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nitesh Sikarwar  
 
-I'm a **Frontend Developer** with 4+ years of experience building modern, scalable, and user-friendly web applications.  
+I'm a **Software Engineer** with 4+ years of experience building modern, scalable, and user-friendly web applications.  
 I love turning complex problems into simple, beautiful, and intuitive UI solutions.  
 
 💻 Skilled in **React.js**, **Next.js**, and **JavaScript (ES6+)**  
