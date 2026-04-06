@@ -21,10 +21,10 @@ I’m currently seeking opportunities in Full Stack Engineering, with core techn
 ---
 
 ### 🧩 Projects I’ve Worked On  
-🎵 **Musical Jazz Player** – A modern, interactive music player built with React.js  
-📦 **Asset Management System** – End-to-end platform for managing digital assets efficiently  
-🧭 **Admin Portals** – Dynamic dashboards with real-time data visualization and user management  
-💼 **Healthcare Applications** – Contributed to large-scale enterprise projects optimizing care delivery  
+🎵 **Musical Jazz Player** : A modern, interactive music player built with React.js  
+📦 **Asset Management System** : End-to-end platform for managing digital assets efficiently  
+🧭 **Admin Portals** : Dynamic dashboards with real-time data visualization and user management  
+💼 **Healthcare Applications** " Contributed to large-scale enterprise projects optimizing care delivery  
 
 ---
 
@@ -54,4 +54,4 @@ I’m currently seeking opportunities in Full Stack Engineering, with core techn
 - [LinkedIn](https://www.linkedin.com/in/nitesh-sikarwar-a3b0561a0)  
 - [GitHub](https://github.com/niteshMP09)  
 
-✨ *“Code is like art — simple, readable, and elegant.”*  
+✨ *Code is like art — simple, readable, and elegant.*  
