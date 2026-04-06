@@ -24,7 +24,7 @@ I’m currently seeking opportunities in Full Stack Engineering, with core techn
 🎵 **Musical Jazz Player** : A modern, interactive music player built with React.js  
 📦 **Asset Management System** : End-to-end platform for managing digital assets efficiently  
 🧭 **Admin Portals** : Dynamic dashboards with real-time data visualization and user management  
-💼 **Healthcare Applications** " Contributed to large-scale enterprise projects optimizing care delivery  
+💼 **Healthcare Applications** : Contributed to large-scale enterprise projects optimizing care delivery  
 
 ---
 
